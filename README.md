@@ -1,4 +1,4 @@
--Microsoft Engage'21
+#Microsoft Engage'21
 The project was to create Microsoft Teams clone i.e a working prototype where a minimum of two participants can 
 connect with each other using our product to have a video conversation. 
 Apart from that, I have added other functionalities which allows the user to chat and share the screen during the meeting.
